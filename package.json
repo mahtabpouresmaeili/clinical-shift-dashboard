@@ -1,0 +1,10 @@
+{
+  "name": "clinical-shift-dashboard-v2",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"clinical shift\" run dev",
+    "build": "npm --prefix \"clinical shift\" run build",
+    "lint": "npm --prefix \"clinical shift\" run lint",
+    "preview": "npm --prefix \"clinical shift\" run preview"
+  }
+}
